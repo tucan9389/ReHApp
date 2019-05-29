@@ -2,7 +2,7 @@
 
 This project help rehabilitation treatment with only a mobile device.
 
-<img src="resource/main_description.png" width="70%>
+<img src="resource/main_description.png" width="50%">
 
 ## DEMO
 
