@@ -4,15 +4,11 @@ This project help rehabilitation treatment with only a mobile device.
 
 <img src="resource/main_description.png" width="76%">
 
-## DEMO
-
-> Preparing...
 
 ## Approach
 
 ### 1. Train the pose estimation model
 
-> Researching now...
 
 - [tucan9389/tf2-mobile-pose-estimation](https://github.com/tucan9389/tf2-mobile-pose-estimation)
 - [tucan9389/keras-mobile-pose-estimation](https://github.com/tucan9389/keras-mobile-pose-estimation)
@@ -29,6 +25,7 @@ This project help rehabilitation treatment with only a mobile device.
 ### 3. Inference the tflite model on mobile device using GPU
 
 - [koomg9599/BodyPoseEstimationAndroid](https://github.com/koomg9599/BodyPoseEstimationAndroid) repo for android application project
+- [tucan9389/PoseEstimation-CoreML](https://github.com/tucan9389/PoseEstimation-CoreML) repo for iOS application project
 
 
 ## Related works
@@ -38,3 +35,4 @@ This project help rehabilitation treatment with only a mobile device.
 
 ### Mobile applicaiton repository
 - https://github.com/koomg9599/BodyPoseEstimationAndroid
+- https://github.com/tucan9389/PoseEstimation-CoreML
